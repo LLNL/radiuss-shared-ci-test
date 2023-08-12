@@ -26,8 +26,6 @@ Please read [CONTRIBUTING.md](https://github.com/LLNL/radiuss-shared-ci/CONTRIBU
 
 version: 1.0.0
 
-TODO: Not even sure how to handle versioning here.
-
 ## Authors
 
 Adrien M Bernede
